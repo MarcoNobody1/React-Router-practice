@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To view this project, you have to download it to your personal computer and follow the following steps. GitHub pages won't work on this.
+
 ## Available Scripts
 
 In the project directory, you can run:
